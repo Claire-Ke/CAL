@@ -1,0 +1,25 @@
+class名示意
+
+/*包裹部分*/
+wrap:（包裹）包含header和content内容；
+header:(头部) 导航栏，包含con_head ；
+con_head:(导航栏内容)，分为左con_left，右con_right；
+con_left:(导航栏左部分)，logo容器；
+logo-pic：logo图标；
+con_right：导航具体内容
+menu_warp:菜单容器；
+nav-header：ul容器
+HomePage：首页
+Introduct：实验室简介
+Member：实验室成员
+Project：实验室作品
+Inform：最新动态
+hover：滑块
+/*尾部*/
+footer:尾部
+footer_left:尾部的左边
+footer_right:尾部的右边
+msg：最后的版权信息
+
+/*内容*/
+Btn:添加按钮，管理员登录时显示
